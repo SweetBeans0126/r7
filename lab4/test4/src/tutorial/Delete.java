@@ -50,4 +50,8 @@ public class Delete extends ActionSupport{
     	}
     	return flag;
     }
+	public void change2()
+	{
+		int change2=0;
+	}
 }

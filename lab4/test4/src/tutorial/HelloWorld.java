@@ -106,4 +106,8 @@ public class HelloWorld extends ActionSupport  implements RequestAware
     	System.out.println("ls:"+ls.size());
     	return flag;
     }
+	public void change3()
+	{
+		int change3=0;
+	}
 }  

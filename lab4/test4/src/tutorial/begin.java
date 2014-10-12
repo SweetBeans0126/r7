@@ -10,4 +10,8 @@ public class begin extends ActionSupport{
 	public String execute(){
     	return SUCCESS;
     }
-}
+	public void change()
+	{
+	}
+	}
+
